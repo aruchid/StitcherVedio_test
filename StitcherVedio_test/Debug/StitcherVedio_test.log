@@ -1,0 +1,8 @@
+﻿  StitcherVedio_test.cpp
+d:\document\项目相关\视频拼接\stitchervedio_test\stitchervedio_test\stitchervedio_test.cpp(73): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\document\项目相关\视频拼接\stitchervedio_test\stitchervedio_test\stitchervedio_test.cpp(467): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+d:\document\项目相关\视频拼接\stitchervedio_test\stitchervedio_test\stitchervedio_test.cpp(468): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+d:\document\项目相关\视频拼接\stitchervedio_test\stitchervedio_test\stitchervedio_test.cpp(572): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+d:\document\项目相关\视频拼接\stitchervedio_test\stitchervedio_test\stitchervedio_test.cpp(581): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+d:\document\项目相关\视频拼接\stitchervedio_test\stitchervedio_test\stitchervedio_test.cpp(600): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+  StitcherVedio_test.vcxproj -> D:\Document\项目相关\视频拼接\StitcherVedio_test\Debug\StitcherVedio_test.exe
